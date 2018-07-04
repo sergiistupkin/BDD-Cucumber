@@ -11,6 +11,7 @@ Then user moves to new contact page
 Then user enters contact details "<firstname>" and "<lastname>" and "<position>"
 Then close the browser
 
+
 Examples:
 | username | password | firstname | lastname | position  |
 | Sergii   | Test123  | Tom       | Peter    | Manager   |

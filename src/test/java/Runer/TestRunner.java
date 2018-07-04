@@ -22,8 +22,6 @@ import org.junit.runner.RunWith;
 //                ,tags= {"~@SmokeTest","@EndToEnd"} // execution different suits of test
 				)
 public class TestRunner {
-   
-    
 }
 
 //		,tags={"@SmokeTest, @EndToEnd"} // execution different suits of test OR
